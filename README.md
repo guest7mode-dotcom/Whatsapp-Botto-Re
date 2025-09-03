@@ -18,9 +18,9 @@
 
 <p align="center">
   <a href="https://github.com/SomnathDas/Whatsapp-botto-re#📝 Prerequisites">Prerequisites</a> •
-  <a href="ttps://github.com/SomnathDas/Whatsapp-botto-re#🔍 Installation">Installation</a> •
-  <a href=ttps://github.com/SomnathDas/Whatsapp-botto-re#💡 Features>Features</a> •
-  <a href="ttps://github.com/SomnathDas/Whatsapp-botto-re#📝 License">License</a>
+  <a href="https://github.com/SomnathDas/Whatsapp-botto-re#🔍 Installation">Installation</a> •
+  <a href="https://github.com/SomnathDas/Whatsapp-botto-re#💡 Features">Features</a> •
+  <a href="https://github.com/SomnathDas/Whatsapp-botto-re#📝 License">License</a>
 </p>
 
 ### 🏠 [Homepage](https://ewh-dev.herokuapp.com/index.html)
